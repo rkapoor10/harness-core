@@ -1,0 +1,5 @@
+segmentConfiguration:
+  enabled: true #segmentConfigEnable
+  url: "segment_url_place_holder"
+  apiKey: "segment_api_key"
+  certValidationRequired: false
