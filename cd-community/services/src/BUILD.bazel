@@ -8,4 +8,5 @@ HarnessTeam = "CME"
 shared_dependencies = [
     "//970-telemetry-beans:module"
     "//950-telemetry:module",
+    "//125-cd-nextgen:module"
 ]
